@@ -1,0 +1,4 @@
+﻿  MoneyCalcTest.cpp
+C:\Users\ciro2\Desktop\MoneyCalcTest\MoneyCalcTest\MoneyCalcTest.cpp(63,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\ciro2\Desktop\MoneyCalcTest\MoneyCalcTest\MoneyCalcTest.cpp(70,33): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  MoneyCalcTest.vcxproj -> C:\Users\ciro2\Desktop\MoneyCalcTest\Debug\MoneyCalcTest.exe
